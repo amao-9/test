@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+body
+{
+	background-image: url(images/瑞克.jpg);
+	background-repeat: no-repeat;
+	background-position:top  center;
+
+}
